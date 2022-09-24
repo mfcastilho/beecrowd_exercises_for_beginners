@@ -1,0 +1,30 @@
+
+
+Escreva um programa que leia três valores com ponto flutuante de dupla precisão:
+A, B e C. Em seguida, calcule e mostre:
+
+a) a área do triângulo retângulo que tem A por base e C por altura.
+    - formula: AreaTriangulaRetangulo = base * altura / 2
+
+b) a área do círculo de raio C. (pi = 3.14159)
+    - formula: AreaCirculo = pi * raio²
+
+c) a área do trapézio que tem A e B por bases e C por altura.
+    - formula: AreaTrapezio = areaMaior + areaMenor * altura / 2
+
+d) a área do quadrado que tem lado B.
+    - formula: AreaQuadrado = lado²
+
+e) a área do retângulo que tem lados A e B.
+    - formula: AreaRetangulo = base * altura
+
+Entrada
+
+O arquivo de entrada contém três valores com um dígito após o ponto decimal.
+Saída
+
+O arquivo de saída deverá conter 5 linhas de dados.
+Cada linha corresponde a uma das áreas descritas acima,
+sempre com mensagem correspondente e
+um espaço entre os dois pontos e o valor.
+O valor calculado deve ser apresentado com 3 dígitos após o ponto decimal.
